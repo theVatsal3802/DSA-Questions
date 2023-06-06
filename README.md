@@ -1,5 +1,7 @@
 # DSA-Questions
 
+### ***Repo no longer updated***
+
 Repository to store the solutions for all the DSA or CP Questions solved by me.
 
 [My Leetcode Profile](https://leetcode.com/theVatsal/)<br>
